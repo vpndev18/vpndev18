@@ -10,13 +10,13 @@
 
 ### Featured projects
 
-**[Foresight](https://github.com/vpndev18/Foresight-AI)** — AI financial forecasting platform.
+**[Foresight](https://github.com/vpndev18/Foresight)** — AI financial forecasting platform.
 .NET 9 Minimal APIs + MediatR + React 19 + PostgreSQL. Monte Carlo simulations
 (1,000 iterations, P10 / P50 / P90) with Gemini-powered plain-English risk
 summaries. Containerized stack, JWT auth, CI/CD with xUnit + Gitleaks scanning
 and a matching local pre-commit hook.
 
-**[FinQuery](https://github.com/vpndev18/Expense-Tracker)** — AI-powered personal finance manager.
+**[FinQuery](https://github.com/vpndev18/FinQuery)** — AI-powered personal finance manager.
 .NET 8 + React + Qdrant vector DB + Redis + SignalR. RAG pipeline over personal
 finance data with vector search and embeddings; Redis caching for high-frequency
 reads; real-time budget alerts via SignalR with async event-driven dispatch.
