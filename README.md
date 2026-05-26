@@ -33,3 +33,4 @@ reads; real-time budget alerts via SignalR with async event-driven dispatch.
 - **300+ DSA problems** solved on LeetCode and GeeksforGeeks
 - **B.Tech Information Technology**, Vishwakarma Institute of Technology, Pune — CGPA 8.85 / 10
 - **Top 1%** rank among 4.1 lakh students in MHT-CET 2019
+
